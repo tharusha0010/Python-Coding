@@ -1,3 +1,4 @@
+
 import numpy as np
 
 arr2d = np.array([
@@ -33,3 +34,4 @@ print(arr2d[:,1::2])
 
 print("print(arr2d[0:2,0:2])")
 print(arr2d[0:2,0:2])
+
